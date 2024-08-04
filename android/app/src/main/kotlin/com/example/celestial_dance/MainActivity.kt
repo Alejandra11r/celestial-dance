@@ -1,4 +1,4 @@
-package com.example.celestial_dance
+package com.celestialdance
 
 import io.flutter.embedding.android.FlutterActivity
 

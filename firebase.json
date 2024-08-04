@@ -1,0 +1,30 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "celestial-dance",
+                    "appId": "1:925666654168:android:99d2b6b02ed0948c8f24ad",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "ios": {
+                "default": {
+                    "projectId": "celestial-dance",
+                    "appId": "1:925666654168:ios:7e462b3a042503488f24ad",
+                    "uploadDebugSymbols": false,
+                    "fileOutput": "ios/Runner/GoogleService-Info.plist"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "celestial-dance",
+                    "configurations": {
+                        "android": "1:925666654168:android:99d2b6b02ed0948c8f24ad",
+                        "ios": "1:925666654168:ios:7e462b3a042503488f24ad"
+                    }
+                }
+            }
+        }
+    }
+}

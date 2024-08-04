@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "925666654168",
+    "project_id": "celestial-dance",
+    "storage_bucket": "celestial-dance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925666654168:android:99d2b6b02ed0948c8f24ad",
+        "android_client_info": {
+          "package_name": "com.celestialdance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRXtD5wicGoVCMT2NTrnhoAsAK1rGez9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
